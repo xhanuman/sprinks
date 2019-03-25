@@ -33,4 +33,5 @@ google_analytics_id: null
 plugins:
   - jekyll-environment-variables
 
-theme: jekyll-theme-serif
+theme: 
+  - jekyll-theme-serif
