@@ -1,4 +1,4 @@
-baseurl: 'sprinks'
+baseurl: ''
 exclude: ['README.md']
 permalink: pretty
 title: '5280 Sprinklers'
